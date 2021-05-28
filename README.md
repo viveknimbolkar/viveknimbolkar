@@ -18,7 +18,7 @@ B.E 2nd year Computer Science and Engineering student.<br/> Still exploring new 
 
 [![HTML Badge](https://img.shields.io/badge/-HTML-F26321?style=for-the-badge&labelColor=black&logo=html&logoColor=F26321)](#) 
 [![css Badge](https://img.shields.io/badge/-CSS-1D63DC?style=for-the-badge&labelColor=black&logo=CSS&logoColor=1D63DC)](#) 
-[![PHP Badge](https://img.shields.io/badge/-PHP-61DBFB?style=for-the-badge&labelColor=black&logo=php&logoColor=61DBFB)](#) 
+[![PHP Badge](https://img.shields.io/badge/-PHP-61DBFB?style=for-the-badge&labelColor=black&logo=&logoColor=61DBFB)](#) 
   
 ### Frameworks 🖼️
 <p>
