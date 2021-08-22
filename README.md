@@ -1,7 +1,7 @@
 # <a href="https://www.linkedin.com/in/viveknimbolkar/"> Hi There! I'm Vivek Nimbolkar</a>  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Aspiring Software Developer | Web Developement | Java Development | Problem Solving <br/><img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
-B.E 2nd year Computer Science and Engineering student.<br/> Still exploring new technologies. 
+B.E 3rd year Computer Science and Engineering student.<br/> Still exploring new technologies. 
 <br/>
 <br/>
 
