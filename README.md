@@ -1,11 +1,11 @@
 # <a href="https://www.linkedin.com/in/viveknimbolkar/"> Hi There! I'm Vivek Nimbolkar</a>  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Aspiring Software Developer | Web Developement | Java Development | Problem Solving <br/><img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
-B.E 3rd year Computer Science and Engineering student.<br/> Still exploring new technologies. 
+Aspiring Software Developer | Web Developement | Problem Solving <br/><img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+Learning Data Science & Machine Learning
 <br/>
 <br/>
 
-[![Twitter Badge](https://img.shields.io/badge/-@NimbolkarVivek-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/NimbolkarVivek)  [![Mail Badge](https://img.shields.io/badge/-Technovik-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/c/Technovik)  [![Linkedin Badge](https://img.shields.io/badge/-VivekNimbolkar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viveknimbolkar/)  [![Mail Badge](https://img.shields.io/badge/-VivekNimbolkar-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nimbolkarvivek56@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-Technovik-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/c/Technovik)  [![Linkedin Badge](https://img.shields.io/badge/-VivekNimbolkar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viveknimbolkar/)  [![Mail Badge](https://img.shields.io/badge/-VivekNimbolkar-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nimbolkarvivek56@gmail.com)
 
 
 # Technology and Tools 🔧
