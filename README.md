@@ -15,6 +15,7 @@ Learning Data Science & Machine Learning
 <img alt="Python" src="https://img.shields.io/badge/python%20-%23ED8B00.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="Java" src="https://img.shields.io/badge/java-%2314354C.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="C" src="https://img.shields.io/badge/c%20-%11EA8B00.svg?&style=for-the-badge&logo=&logoColor=white"/>
 
 [![HTML Badge](https://img.shields.io/badge/-HTML-F26321?style=for-the-badge&labelColor=black&logo=html&logoColor=F26321)](#) 
 [![css Badge](https://img.shields.io/badge/-CSS-1D63DC?style=for-the-badge&labelColor=black&logo=CSS&logoColor=1D63DC)](#) 
@@ -32,6 +33,7 @@ Learning Data Science & Machine Learning
  ### Database
  <p>
  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+ <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%2300ff00.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
  </p>
  
 <a href="https://github.com/viveknimbolkar">
