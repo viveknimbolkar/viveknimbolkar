@@ -35,13 +35,13 @@ Aspiring Software Developer | Web Developement | Problem Solving <br/><img align
  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
  <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%2300ff00.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
  </p>
- 
- <b>&#128200; Competitive Programming</b>
-<p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/viveknimbolkar?theme=light&font=Karma&ext=contest" />
-</p>
 
 <a href="https://github.com/viveknimbolkar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viveknimbolkar&theme=tokyonight&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveknimbolkar&theme=buefy&layout=compact" />
 </a>
+
+ <b>&#128200; Competitive Programming</b>
+<p float="left">
+<img height="273em" src="https://leetcard.jacoblin.cool/viveknimbolkar?theme=light&font=Karma&ext=contest" />
+</p>
