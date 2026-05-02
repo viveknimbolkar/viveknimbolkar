@@ -4,7 +4,7 @@ Surrounded by Javascript <br/><img align="right" src="https://github.com/rajput2
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viveknimbolkar&label=Profile%20views&color=0e75b6&style=flat" alt="viveknimbolkar" /> </p>
 
-[![Mail Badge](https://img.shields.io/badge/-Technovik-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/c/Technovik)  [![Linkedin Badge](https://img.shields.io/badge/-VivekNimbolkar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viveknimbolkar/)  [![Mail Badge](https://img.shields.io/badge/-VivekNimbolkar-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nimbolkarvivek1@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-Technovik-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/c/Technovik)  [![Linkedin Badge](https://img.shields.io/badge/-VivekNimbolkar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viveknimbolkar/)
 
 <a href="https://github.com/viveknimbolkar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viveknimbolkar&theme=tokyonight&show_icons=true" />
