@@ -28,3 +28,8 @@
  <img alt="MySQL" src="https://img.shields.io/badge/docker-%2300f.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
  <img alt="Postgres" src ="https://img.shields.io/badge/kubernetes-%23316192.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
+
+---
+
+### Connect with me on
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/NimbolkarVivek)
