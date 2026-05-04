@@ -1,17 +1,30 @@
-# <a href="https://www.linkedin.com/in/viveknimbolkar/"> Hi There! I'm Vivek Nimbolkar</a> 
+# Hi there 👋, I'm Vivek Nimbolkar
 
-Surrounded by Javascript <br/><img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+💻 Builder | ⚡ Exploring AI & Automation 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=viveknimbolkar&label=Profile%20views&color=0e75b6&style=flat" alt="viveknimbolkar" /> </p>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=pavanjoshi914.pavanjoshi914)
 
-[![Mail Badge](https://img.shields.io/badge/-Technovik-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/c/Technovik)  [![Linkedin Badge](https://img.shields.io/badge/-VivekNimbolkar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viveknimbolkar/)
+---
 
-<a href="https://github.com/viveknimbolkar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viveknimbolkar&theme=tokyonight&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveknimbolkar&theme=buefy&layout=compact" />
-</a>
+## 🧠 About Me
+- 🔭 Currently working on: AI-powered apps & SaaS  
+- 🌱 Learning: Agentic AI, System Design, Scalable Backend  
+- 🧩 Interested in: Open Source, SaaS, AI Agents  
+- 🎯 Goal: Build impactful products & scale them  
 
- <b>&#128200; Competitive Programming</b>
-<p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/viveknimbolkar?theme=light&font=Karma&ext=contest" />
+---
+
+## Tech Stack
+<p>
+  
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+ <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+ <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+ <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+ <img alt="MongoDB" src ="https://img.shields.io/badge/aws-%234ea94b.svg?&style=for-the-badge&logo=aws&logoColor=white"/>
+ <img alt="MySQL" src="https://img.shields.io/badge/docker-%2300f.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+ <img alt="Postgres" src ="https://img.shields.io/badge/kubernetes-%23316192.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
